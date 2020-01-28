@@ -1,2 +1,2 @@
-echo "Hello world:
-%Date% : %time%"
+echo "Hello world:%date% : %time%"
+echo "I am in master"
